@@ -15,7 +15,6 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		
       </div>
-
 </p>
 
 ### Blogs posts
